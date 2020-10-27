@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4e7d7e95.chunk.css",
+    "main.js": "./static/js/main.e65849df.chunk.js",
+    "main.js.map": "./static/js/main.e65849df.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3b26157f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3b26157f.js.map",
+    "static/js/2.bdf49e96.chunk.js": "./static/js/2.bdf49e96.chunk.js",
+    "static/js/2.bdf49e96.chunk.js.map": "./static/js/2.bdf49e96.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.c1c48bf9e64ad740628cf073604e9094.js": "./precache-manifest.c1c48bf9e64ad740628cf073604e9094.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.4e7d7e95.chunk.css.map": "./static/css/main.4e7d7e95.chunk.css.map",
+    "static/js/2.bdf49e96.chunk.js.LICENSE.txt": "./static/js/2.bdf49e96.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "./static/media/triangle-down.4688d215.svg",
+    "static/media/letter.png": "./static/media/letter.74d7f973.png",
+    "static/media/spinner.gif": "./static/media/spinner.3d035a55.gif",
+    "static/media/tab-start.svg": "./static/media/tab-start.a5a8aa61.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b26157f.js",
+    "static/js/2.bdf49e96.chunk.js",
+    "static/css/main.4e7d7e95.chunk.css",
+    "static/js/main.e65849df.chunk.js"
+  ]
+}
