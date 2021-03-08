@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(1.25,0,0,1,0,0)">
+        <rect x="0" y="0" width="400" height="500" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="0" y="0" width="400" height="500"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(2.5,0,0,3.125,-880,-700)">
+                <path d="M512,260.166C512,255.922 510.314,251.853 507.314,248.852C501.791,243.33 492.67,234.209 487.148,228.686C484.147,225.686 480.078,224 475.834,224L364.8,224C361.405,224 358.149,225.349 355.749,227.749C353.349,230.15 352,233.405 352,236.8L352,371.2C352,374.595 353.349,377.85 355.749,380.251C358.15,382.651 361.405,384 364.8,384L499.2,384C502.595,384 505.85,382.651 508.251,380.251C510.651,377.851 512,374.595 512,371.2L512,260.166Z"/>
+            </g>
+        </g>
+    </g>
+</svg>

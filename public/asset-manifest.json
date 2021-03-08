@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.75b07bd9.chunk.css",
+    "main.js": "./static/js/main.3db21c3a.chunk.js",
+    "main.js.map": "./static/js/main.3db21c3a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3b26157f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3b26157f.js.map",
+    "static/js/2.d1822321.chunk.js": "./static/js/2.d1822321.chunk.js",
+    "static/js/2.d1822321.chunk.js.map": "./static/js/2.d1822321.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.0500a77144785ba922e6b0c74e1cb96d.js": "./precache-manifest.0500a77144785ba922e6b0c74e1cb96d.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.75b07bd9.chunk.css.map": "./static/css/main.75b07bd9.chunk.css.map",
+    "static/js/2.d1822321.chunk.js.LICENSE.txt": "./static/js/2.d1822321.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "./static/media/triangle-down.4688d215.svg",
+    "static/media/BookThumbnail.scss": "./static/media/pdf-mask.c0e25746.svg",
+    "static/media/spinner.gif": "./static/media/spinner.3d035a55.gif",
+    "static/media/tab-start.svg": "./static/media/tab-start.7684764d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b26157f.js",
+    "static/js/2.d1822321.chunk.js",
+    "static/css/main.75b07bd9.chunk.css",
+    "static/js/main.3db21c3a.chunk.js"
+  ]
+}
